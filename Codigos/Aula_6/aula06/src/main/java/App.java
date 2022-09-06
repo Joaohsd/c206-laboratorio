@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        // Aplicando o conveito de Encapsulamento
+        // Aplicando o conceito de Encapsulamento
         Funcionario f1 = new Funcionario("Joao", "123456", "11/03/2001", 1000, 5);
         f1.mostraInfo();
         System.out.println();
